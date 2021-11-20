@@ -1,0 +1,56 @@
+
+
+body {
+    background-color: #2f2f2f;
+    background-image: url(wheat.png);
+}
+
+h1 {
+
+    font-family: arial, verdana, sans-serif;
+    font-variant: small-caps;
+    font-size: 60px;
+    font-style: oblique;
+
+    color: #cf1b0a;
+}
+
+p {
+
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 25px;
+    line-height: 35px;
+    
+}
+
+tr {
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 25px;
+    line-height: 35px;
+    color: rgb(255, 255, 255);
+}
+
+button {
+    border: gray;
+    border-radius: 15px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: small;
+    line-height: 35px;
+    color: rgb(255, 255, 255);
+    background-color:#cf1b0a;
+    
+}
+
+a {
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: small;
+    line-height: 35px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+input {
+    border-radius: 15px;
+    border: gray;
+}
+

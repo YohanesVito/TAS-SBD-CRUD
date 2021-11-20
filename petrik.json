@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "5fca147427f06b2cbc27c304"
+  },
+  "type": "header",
+  "version": "5.0.2",
+  "comment": "Export to JSON plugin for PHPMyAdmin"
+},{
+  "_id": {
+    "$oid": "5fca147427f06b2cbc27c305"
+  },
+  "type": "database"
+},{
+  "_id": {
+    "$oid": "5fca147427f06b2cbc27c306"
+  },
+  "type": "table",
+  "data": [
+    {
+      "ID Transaksi": "T1",
+      "Nama Customer": "PATRICK PRANADUTA PALETEI",
+      "Barang yang disewa": "MIC",
+      "Tanggal Transaksi": "2020-12-01 17:41:01",
+      "Tanggal Pengembalian": "2020-12-02 17:41:01",
+      "Total Pembayaran": "500000"
+    },
+    {
+      "ID Transaksi": "T2",
+      "Nama Customer": "RUDI",
+      "Barang yang disewa": "STAND MIC",
+      "Tanggal Transaksi": "2020-12-08 17:41:01",
+      "Tanggal Pengembalian": "2020-12-09 17:41:01",
+      "Total Pembayaran": "40000"
+    },
+    {
+      "ID Transaksi": "T3",
+      "Nama Customer": "DEN",
+      "Barang yang disewa": "SOUND",
+      "Tanggal Transaksi": "2020-12-14 17:41:01",
+      "Tanggal Pengembalian": "2020-12-16 17:41:01",
+      "Total Pembayaran": "1000000"
+    },
+    {
+      "ID Transaksi": "T4",
+      "Nama Customer": "SUSI",
+      "Barang yang disewa": "MIXER",
+      "Tanggal Transaksi": "2020-12-23 17:41:01",
+      "Tanggal Pengembalian": "2020-12-26 17:41:01",
+      "Total Pembayaran": "2000000"
+    },
+    {
+      "ID Transaksi": "T5",
+      "Nama Customer": "DEA",
+      "Barang yang disewa": "SOUND MONI",
+      "Tanggal Transaksi": "2020-12-18 17:41:01",
+      "Tanggal Pengembalian": "2020-12-20 17:41:01",
+      "Total Pembayaran": "2500000"
+    }
+  ]
+}]

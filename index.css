@@ -1,0 +1,30 @@
+body {
+    background-color: #2f2f2f;
+    background-image: url(wheat.png);
+}
+
+h1 {
+    text-align: center;
+    font-family: arial, verdana, sans-serif;
+    font-variant: small-caps;
+    font-size: 60px;
+    font-style: oblique;
+    color: #cf1b0a;
+}
+
+p {
+    text-align: center;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 25px;
+    line-height: 35px;
+}
+
+#a1 {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+#a2 {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}

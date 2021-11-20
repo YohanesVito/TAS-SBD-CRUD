@@ -1,0 +1,135 @@
+{
+	"id_order" : "20201202008050584SLO-PTI0900/1067258",
+	"pelanggan" : {
+		"id_pelanggan" : "KT017",
+		"nama_pelanggan" : "Stevanus Visna Vembriarto",
+		"no_telp" : "0814900289"
+	},
+	"diskon" : {
+		"id_diskon" : "D1",
+		"diskon" : 10000.00
+	},
+	"seat" : {
+		"id_seat" : "S2",
+		"seat" : 2
+	},
+	"trip" : {
+		"id_perjalanan" : "T009",
+		"asal" : "SURAKARTA",
+        "tujuan" : "PATI",
+        "jam": "05:30:00",
+        "harga_tiket": 100000.00
+    },
+	"alamat_jemput": "Jl. Pahlawan No.15 Surakarta",
+	"alamat_antar" : "Jl. Anggrek No. 99, Pati",
+	"tanggal" : "2020-12-02"
+}
+
+{
+	"id_order" : "20201214008050584JEB-WON0900/1067257",
+	"pelanggan" : {
+		"id_pelanggan" : "KT011",
+		"nama_pelanggan" : "Gabriel Manuel Tumakaka",
+		"no_telp" : "0858011790"
+	},
+	"diskon" : {
+		"id_diskon" : "-",
+		"diskon" : 0.00
+	},
+	"seat" : {
+		"id_seat" : "S7",
+		"seat" : 7
+	},
+	"trip" : {
+		"id_perjalanan" : "T003",
+		"asal" : "JEBRES",
+        "tujuan" : "WONOGIRI",
+        "jam": "09:15:00",
+        "harga_tiket": 80000.00
+    },
+	"alamat_jemput": "Jl. Melati No. 12, Jebres",
+	"alamat_antar" : "Jl. Hayam Wuruk No. 12 Wonogiri",
+	"tanggal" : "2020-12-14"
+}
+
+{
+	"id_order" : "20201209008050584PTI-YOG0900/1067264",
+	"pelanggan" : {
+		"id_pelanggan" : "KT015",
+		"nama_pelanggan" : "Gideon Yunior Pamungkas",
+		"no_telp" : "0858093511"
+	},
+	"diskon" : {
+		"id_diskon" : "-",
+		"diskon" : 0.00
+	},
+	"seat" : {
+		"id_seat" : "S8",
+		"seat" : 8
+	},
+	"trip" : {
+		"id_perjalanan" : "T012",
+		"asal" : "PATI",
+        "tujuan" : "YOGYAKARTA",
+        "jam": "11:00:00",
+        "harga_tiket": 100000.00
+    },
+	"alamat_jemput": "Jl. Maja Pahit No 29 Pati",
+	"alamat_antar" : "Jl. Ahmad Yani No. 21 Yogyakarta",
+	"tanggal" : "2020-12-09"
+}
+
+{
+	"id_order" : "20201214008050584KLU-SMG0900/1067271",
+	"pelanggan" : {
+		"id_pelanggan" : "KT019",
+		"nama_pelanggan" : "Michael Setiawan Sanjaya",
+		"no_telp" : "0858351116"
+	},
+	"diskon" : {
+		"id_diskon" : "-",
+		"diskon" : 0.00
+	},
+	"seat" : {
+		"id_seat" : "S6",
+		"seat" : 6
+	},
+	"trip" : {
+		"id_perjalanan" : "T025",
+		"asal" : "YOGYAKARTA",
+        "tujuan" : "SEMARANG",
+        "jam": "07:15:00",
+        "harga_tiket": 100000.00
+    },
+	"alamat_jemput": "Jl. Gunungsari No. 95, Tarakan, Kalimantan Utara",
+	"alamat_antar" : "Jl. Joyoboyo No 93 Semarang",
+	"tanggal" : "2020-12-14"
+}
+
+{
+	"id_order" : "20201212008050584SLO-PTI0900/1067269",
+	"pelanggan" : {
+		"id_pelanggan" : "KT012",
+		"nama_pelanggan" : "Immanuel Sindu Kristian P",
+		"no_telp" : "0858440079"
+	},
+	"diskon" : {
+		"id_diskon" : "D1",
+		"diskon" : 10000.00
+	},
+	"seat" : {
+		"id_seat" : "S7",
+		"seat" : 7
+	},
+	"trip" : {
+		"id_perjalanan" : "T021",
+		"asal" : "SURAKARTA",
+        "tujuan" : "PATI",
+        "jam": "11:30:00",
+        "harga_tiket": 100000.00
+    },
+	"alamat_jemput": "Jl. Mastrip No. 64 Surakarta",
+	"alamat_antar" : "Jl. Joyoboyo No 22 Pati",
+	"tanggal" : "2020-12-12"
+}
+
